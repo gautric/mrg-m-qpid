@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/gautric/jboss-as/jboss-eap-5.1.1/jboss-as/client/jboss-javaee.jar"/>
+	<classpathentry kind="lib" path="lib/mina-core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mina-filter-ssl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-0.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-0.12.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-example-0.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-example-0.12.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-example-tests-0.12.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-client-tests-0.12.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-common-0.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-common-0.12.jar"/>
+	<classpathentry kind="lib" path="lib/qpid-common-tests-0.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
